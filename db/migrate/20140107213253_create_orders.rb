@@ -5,7 +5,7 @@ class CreateOrders < ActiveRecord::Migration
       t.string :city
       t.string :state
 
-      t.timestamps null: false
+      t.timestamps
     end
   end
 end

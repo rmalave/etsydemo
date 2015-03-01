@@ -5,7 +5,7 @@ class CreateListings < ActiveRecord::Migration
       t.text :description
       t.decimal :price
 
-      t.timestamps null: false
+      t.timestamps
     end
   end
 end
