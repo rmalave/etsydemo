@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails etsydemo: development" uuid="9e0f207f-9493-405e-bd14-f13ac8e67faa">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails etsydemo: test" uuid="0799e93d-b9de-44c1-8406-1760a6d97e82">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
